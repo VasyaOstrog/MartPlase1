@@ -1,1 +1,67 @@
-
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Bluetooth Колонка JBL",
+      "description": "Портативна колонка з глибоким басом та захистом від води.",
+      "price": 1899,
+      "image": "https://images.pexels.com/photos/682933/pexels-photo-682933.jpeg",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "title": "Ігрова Мишка Razer",
+      "description": "Оптична геймерська мишка з RGB підсвіткою.",
+      "price": 1299,
+      "image": "https://images.pexels.com/photos/194095/pexels-photo-194095.jpeg",
+      "userId": 2
+    },
+    {
+      "id": 3,
+      "title": "Ноутбук Lenovo IdeaPad",
+      "description": "Легкий та потужний ноутбук для навчання та роботи.",
+      "price": 18999,
+      "image": "https://images.pexels.com/photos/18105/pexels-photo.jpg",
+      "userId": 3
+    },
+    {
+      "id": 4,
+      "title": "Геймпад Xbox",
+      "description": "Бездротовий контролер для Xbox та ПК.",
+      "price": 1699,
+      "image": "https://images.pexels.com/photos/777001/pexels-photo-777001.jpeg",
+      "userId": 1
+    },
+    {
+      "id": 5,
+      "title": "PowerBank 20000mAh",
+      "description": "Потужний павербанк з швидкою зарядкою.",
+      "price": 899,
+      "image": "https://images.pexels.com/photos/4042800/pexels-photo-4042800.jpeg",
+      "userId": 2
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Олександр",
+      "email": "olex@example.com",
+      "phone": "+380501234567",
+      "avatar": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Марія",
+      "email": "maria@example.com",
+      "phone": "+380631112233",
+      "avatar": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Василь",
+      "email": "vasyl@example.com",
+      "phone": "+380979876543",
+      "avatar": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg"
+    }
+  ]
+}
